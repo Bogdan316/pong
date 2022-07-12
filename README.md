@@ -1,9 +1,9 @@
 # Pong
 A Pong like game made by me for the Nintendo Entertainment System using the 6502 assembly language.
 
-![Alt text](screenshots\pong-0.png?raw=true "Start Screen")
+![Alt text](/screenshots/pong-0.png?raw=true "Start Screen")
 
-![Alt text](screenshots\pong-4.png?raw=true "Game Screen")
+![Alt text](/screenshots/pong-4.png?raw=true "Game Screen")
 
 # Resources
 A great source of information about anything regarding the NES and game development for the NES is the [Nesdev Wiki](https://www.nesdev.org/wiki/Nesdev_Wiki).
