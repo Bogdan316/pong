@@ -1,5 +1,5 @@
 # Pong
-A Pong like game made by me for the Nintendo Entertainment System using the 6502 assembly language.
+A Pong like game made for the Nintendo Entertainment System using the 6502 assembly language.
 
 <p float="left">
   <img src="screenshots/pong-0.png" width="32%" />
